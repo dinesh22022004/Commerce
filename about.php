@@ -43,7 +43,7 @@ if(isset($_SESSION['user_id'])){
 
       <div class="content">
          <h3>Developer's Message:</h3>
-         <p>Hey There ! I'm w8. A Student of BCA from IMRD College [Batch : 2022] . I love designing websites and exploring new things. Learning new things is my hobby.</p>
+         <p>Hey There ! I'm w8. A Student of BCA from Jai Hind Trust JET'S Zulal Bhilajirao Patil [Batch : 2022] . I love designing websites and exploring new things. Learning new things is my hobby.</p>
 
          <a href="contact.php" class="btn">Contact Us</a>
       </div>
